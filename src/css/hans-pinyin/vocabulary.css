@@ -1,0 +1,52 @@
+dl.vocabulary-list {
+    font-size: 1rem;
+    column-count: 2;
+    text-align: left;
+}
+
+dl.vocabulary-list > dt.vocabulary-phrase {
+    break-after: avoid;
+    font-size: 1.2rem;
+}
+
+dl.vocabulary-list > dd.vocabulary-definition {
+    unicode-bidi: embed;
+}
+
+dl.vocabulary-list > dd.vocabulary-definition > span.vocabulary-transcription {
+    font-style: italic;
+    color: darkslategray;
+}
+
+dl.vocabulary-list > dd.vocabulary-definition > span.vocabulary-transcription:before {
+    content: " [";
+}
+
+dl.vocabulary-list > dd.vocabulary-definition > span.vocabulary-transcription:after {
+    content: "] ";
+}
+
+dl.vocabulary-list > dd.vocabulary-definition > span.vocabulary-grammar {
+    font-family: Courrier;
+    font-style: oblique;
+    font-size: smaller;
+    font-weight: bold;
+    color: gray;
+}
+
+dl.vocabulary-list > dd.vocabulary-definition > span.vocabulary-translation {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+dl.vocabulary-list > dd.vocabulary-definition > span.vocabulary-notes {
+    font-style: italic;
+    color: darkgray;
+}
+
+dl.vocabulary-list > dd.vocabulary-definition > span.vocabulary-notes:before {
+    content: " (";
+}
+
+dl.vocabulary-list > dd.vocabulary-definition > span.vocabulary-notes:after {
+    content: ") ";
+}

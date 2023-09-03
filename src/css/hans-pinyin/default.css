@@ -1,0 +1,18 @@
+@import url(./fonts.css);
+@import url(./dialog.css);
+@import url(./vocabulary.css);
+
+article.text, article.dialog {
+  font-size: 1.2rem;
+  text-align: justify;
+  font-family: "FZKTPY01", "宋体","Microsoft YaHei", Arial, sans-serif;
+}
+
+article.text > h1 {
+  font-family: "FZShuSong-Z01S", "宋体","Microsoft YaHei", Arial, sans-serif;
+}
+
+hr {
+  border-style: hidden;
+  border-top: 1px dashed darkgray;
+}

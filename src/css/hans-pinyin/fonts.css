@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'FZKTPY01';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/FangZhengKaiTiPinYinZiKu-1.ttc') format('truetype');
+}
+
+@font-face {
+    font-family: 'FZShuSong-Z01S';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/FangZhengShuSongJianTi-1.ttf') format('truetype');
+}

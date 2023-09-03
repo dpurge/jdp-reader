@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'HanWangMingMediumChuin';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/wp010-05.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'HanWangMingBold';
+    font-style: normal;
+    font-weight: bold;
+    src: url('../fonts/wt003.ttf') format('truetype');
+}

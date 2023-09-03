@@ -1,0 +1,30 @@
+identifier = 'c7e0d950-47a1-4dbe-bdfb-89aa2ae59568'
+title = 'Bible Old Testament'
+filename = 'jdp-bible-old-testament.epub'
+language = 'he'
+
+cover = 'cover.svg'
+template = '../../tpl/hebr'
+
+author = [
+  ''
+]
+
+stylesheet = [
+]
+
+font = [
+]
+
+image = [
+]
+
+[[section]]
+head = '01-genesis.md'
+text = [
+]
+  
+[[section]]
+head = '02-exodus.md'
+text = [
+]

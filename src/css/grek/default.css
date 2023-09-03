@@ -1,0 +1,12 @@
+@import url(./dialog.css);
+@import url(./parallel-text.css);
+
+article.text, article.dialog {
+  text-align: justify;
+  font-family: serif;
+}
+
+hr {
+  border-style: hidden;
+  border-top: 1px dashed darkgray;
+}

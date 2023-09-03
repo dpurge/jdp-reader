@@ -1,0 +1,21 @@
+.parallel-text {
+    display:table;
+}
+ 
+.parallel-text .parallel-block { 
+    display:table-row; 
+}
+
+.parallel-text .parallel-cell { 
+    display:table-cell; 
+    width:50%; 
+    padding:10px; 
+}
+
+.parallel-text .parallel-cell.text { 
+    text-align:justify; 
+}
+
+.parallel-text .parallel-cell.translation {
+    text-align:justify 
+}

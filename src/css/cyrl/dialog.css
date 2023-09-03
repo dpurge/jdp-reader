@@ -1,0 +1,33 @@
+article.text > ul.dialog {
+	list-style-type: none;
+	list-style-position: inside;
+	margin-left: 0;
+	margin-right: 0;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+article.text > ul.dialog > li.dialog-item {
+	page-break-inside: avoid;
+}
+
+article.text > ul.dialog > li.dialog-item > div.dialog-item-speaker {
+	color: DarkGrey;
+}
+
+article.text > ul.dialog > li.dialog-item > div.dialog-item-speaker:after {
+	content: ": ";
+}
+
+article.text > ul.dialog > li.dialog-item > div.dialog-item-separator {
+	float: left;
+}
+
+article.text > ul.dialog > li.dialog-item > div.dialog-item-utterance {
+	margin-left: 2em;
+}
+
+article.text > ul.dialog > li.dialog-item > div.dialog-item-utterance > :first-child {
+	margin-top: 0;
+}
+  

@@ -1,0 +1,32 @@
+identifier = '3605e73d-0b15-46ff-a764-ddeeb9d9f3de'
+title = '三國志演義'
+filename = 'luo_guanzhong-san_guo_zhi_yan_yi.epub'
+language = 'zh'
+
+cover = 'cover.svg'
+template = '../../tpl/hant'
+
+author = [
+  "Luo Guanzhong"
+]
+
+stylesheet = [
+  '../../css/hant-zhuyin/fonts.css',
+  '../../css/hant-zhuyin/nav.css',
+  '../../css/hant-zhuyin/default.css',
+  '../../css/hant-zhuyin/section.css',
+  '../../css/hant-zhuyin/dialog.css'
+]
+
+font = [
+  '../../ttf/hant-zhuyin/wp010-05.ttf'
+]
+
+image = [
+]
+
+[[section]]
+head = 'book.md'
+text = [
+  '01.md'
+]

@@ -1,0 +1,8 @@
+article.section {
+  text-align: center;
+  font-family: serif;
+}
+
+article.section > ul {
+	list-style-type: none;
+}

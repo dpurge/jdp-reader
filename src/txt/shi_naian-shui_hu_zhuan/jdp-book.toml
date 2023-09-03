@@ -1,0 +1,33 @@
+identifier = '8ac1785c-c573-4a45-8437-2139096744f3'
+title = '水滸傳'
+filename = 'shi_naian-shui_hu_zhuan.epub'
+language = 'zh'
+
+cover = 'cover.svg'
+template = '../../tpl/hant'
+
+author = [
+  "Shi Nai'an"
+]
+
+stylesheet = [
+  '../../css/hant-zhuyin/fonts.css',
+  '../../css/hant-zhuyin/nav.css',
+  '../../css/hant-zhuyin/default.css',
+  '../../css/hant-zhuyin/section.css',
+  '../../css/hant-zhuyin/dialog.css'
+]
+
+font = [
+  '../../ttf/hant-zhuyin/wp010-05.ttf'
+]
+
+image = [
+]
+
+[[section]]
+head = 'book.md'
+text = [
+  '00.md',
+  '01.md'
+]

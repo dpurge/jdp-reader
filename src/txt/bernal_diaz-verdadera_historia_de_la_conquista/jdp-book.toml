@@ -1,0 +1,51 @@
+identifier = '5fae2c86-0835-4597-8d25-e0595d7ab705'
+title = 'Verdadera historia de los sucesos de la conquista de la Nueva-España'
+filename = 'bernal_diaz-verdadera_historia_de_la_conquista.epub'
+language = 'es'
+
+cover = 'cover.svg'
+template = '../../tpl/latn'
+
+author = [
+  'Bernal Díaz del Castillo'
+]
+
+stylesheet = [
+  '../../css/latn/nav.css',
+  '../../css/latn/default.css',
+  '../../css/latn/section.css',
+  '../../css/latn/dialog.css',
+  '../../css/latn/parallel-text.css'
+]
+
+font = [
+]
+
+image = [
+]
+
+[[section]]
+head = 'book.md'
+text = [
+  '000.md',
+  '001.md',
+  '002.md',
+  '003.md',
+  '004.md',
+  '005.md',
+  '006.md',
+  '007.md',
+  '008.md',
+  '009.md',
+  '010.md',
+  '011.md',
+  '012.md',
+  '013.md',
+  '014.md',
+  '015.md',
+  '016.md',
+  '017.md',
+  '018.md',
+  '019.md',
+  '020.md'
+]

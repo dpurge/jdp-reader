@@ -1,0 +1,30 @@
+ul.dialog {
+	list-style-type: none;
+	list-style-position: inside;
+	margin-left: 0;
+	padding-left: 0;
+}
+
+ul.dialog > li.dialog-item {
+	page-break-inside: avoid;
+}
+
+ul.dialog > li.dialog-item > div.dialog-item-speaker {
+	color: DarkGrey;
+}
+
+ul.dialog > li.dialog-item > div.dialog-item-speaker:after {
+	content: ": ";
+}
+
+ul.dialog > li.dialog-item > div.dialog-item-separator {
+	float: left;
+}
+
+ul.dialog > li.dialog-item > div.dialog-item-utterance {
+	margin-left: 2em;
+}
+
+ul.dialog > li.dialog-item > div.dialog-item-utterance > :first-child {
+	margin-top: 0;
+}

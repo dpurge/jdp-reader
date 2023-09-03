@@ -1,0 +1,30 @@
+identifier = 'f1575d95-d427-4969-b443-1c798686eb3d'
+title = 'Bible New Testament'
+filename = 'jdp-bible-new-testament.epub'
+language = 'el'
+
+cover = 'cover.svg'
+template = '../../tpl/grek'
+
+author = [
+  ''
+]
+
+stylesheet = [
+]
+
+font = [
+]
+
+image = [
+]
+
+[[section]]
+head = '01-matthew.md'
+text = [
+]
+  
+[[section]]
+head = '02-mark.md'
+text = [
+]

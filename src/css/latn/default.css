@@ -1,0 +1,14 @@
+@import url(./dialog.css);
+@import url(./vocabulary.css);
+@import url(./table.css);
+@import url(./parallel-text.css);
+
+article.text {
+  text-align: justify;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+hr {
+  border-style: hidden;
+  border-top: 1px dashed darkgray;
+}

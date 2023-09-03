@@ -1,0 +1,39 @@
+identifier = '60018433-4f8c-45dc-9822-4f04ef95f7ca'
+title = 'Ιστορίαι Ηροδότου'
+filename = 'jdp-herodotus-history.epub'
+language = 'el'
+
+cover = 'cover.svg'
+template = '../../tpl/grek'
+
+author = [
+  'Ηρόδοτος ο Αλικαρνασσεύς'
+]
+
+stylesheet = [
+  '../../css/grek/nav.css',
+  '../../css/grek/default.css',
+  '../../css/grek/section.css',
+  '../../css/grek/dialog.css',
+  '../../css/grek/parallel-text.css'
+]
+
+font = [
+]
+
+image = [
+]
+
+[[section]]
+head = 'book-I.md'
+text = [
+  '01-klio.md',
+  '02-euterpe.md',
+  '03-thaleia.md',
+  '04-melpomene.md'
+]
+  
+[[section]]
+head = 'book-II.md'
+text = [
+]
