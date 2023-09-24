@@ -50,11 +50,11 @@ So they put them on board their ship, and forthwith departed, sailing away to Eg
 
 2
 In this manner the Persians report that Io came to Egypt, not
-agreeing therein with the Hellenes, 3 and this they say was the first
+agreeing therein with the Hellenes, and this they say was the first
 beginning of wrongs. Then after this, they say, certain Hellenes (but
 the name of the people they are not able to report) put in to the city
-of Tyre in Phenicia and carried off the king's daughter Europa;these
-would doubtless be Cretans;and so they were quits for the former
+of Tyre in Phenicia and carried off the king's daughter Europa; these
+would doubtless be Cretans; and so they were quits for the former
 injury. After this however the Hellenes, they say, were the authors of
 the second wrong; for they sailed in to Aia of Colchis and to the river
 Phasis with a ship of war, and from thence, after they had done the
@@ -259,7 +259,7 @@ aloud and said: "Master, what word of unwisdom is this which thou dost
 utter, bidding me look upon my mistress naked? When a woman puts off
 her tunic she puts off her modesty also. Moreover of old time those fair
 sayings have been found out by men, from which we ought to learn wisdom;
-and of these one is this,that each man should look on his own: but I
+and of these one is this, that each man should look on his own: but I
 believe indeed that she is of all women the fairest and I entreat thee
 not to ask of me that which it is not lawful for me to do."
 
